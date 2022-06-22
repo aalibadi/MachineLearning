@@ -1,4 +1,4 @@
-# --- NOTE: My first submission was incorrectly formatted when I pasted it into here from my Notepad. This submission is the same code, but formatted correctly :)
+# --- NOTE: My earlier submissions were incorrectly formatted when I pasted it into CoderByte from my Notepad. This submission is the same code, but formatted correctly :)
 
 from sklearn.datasets import load_iris
 from sklearn.tree import DecisionTreeClassifier
